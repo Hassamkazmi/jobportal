@@ -1,0 +1,27 @@
+
+.menu{
+    display: flex;
+    flex: 3;
+    
+}
+#btn{
+    color: #44b384;
+    background-color: #44b384;
+}
+.button-style{
+    margin-top: 30px;
+    border-style: none;
+    background-color: #44b384;
+    cursor: pointer;
+}
+
+/*
+ "#3454D1",
+    shortlisted: "#DC851F",
+    accepted: "#09BC8A",
+    rejected: "#D1345B",
+    deleted: "#B49A67",
+    cancelled: "#FF8484",
+    finished: "#4EA5D9",
+
+    */
